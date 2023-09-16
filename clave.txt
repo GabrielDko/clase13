@@ -1,2 +1,0 @@
-passwoord1: EGD345
-passwoord2: DKV456
