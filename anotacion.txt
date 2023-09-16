@@ -3,3 +3,6 @@ El martes tengo clases teorica
 El miercoles tengo clases de habilidades blandas
 El jueves tengo clases teoricas
 El viernes tengo clases teoricas
+Empezamos el módulo 3 hablando de git, una herramientas para poder trabajar mediante un sistema de versionados 
+y GitHub, el lugar donde almacenaremos los archivos con sus respectivas versiones 
+
